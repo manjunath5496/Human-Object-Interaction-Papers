@@ -5,118 +5,95 @@
 
                              
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Human-Object-Interaction-Papers/blob/master/hu(1).pdf" style="text-decoration:none;">CoqIOA: A Formalization of IO Automata in the
-Coq Proof Assistant</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Human-Object-Interaction-Papers/blob/master/hu(1).pdf" style="text-decoration:none;">Action-Guided Attention Mining and Relation Reasoning Network for Human-Object Interaction Detection</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Human-Object-Interaction-Papers/blob/master/hu(2).pdf" style="text-decoration:none;">An Offline Foundation for
-Online Accountable Pseudonyms</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Human-Object-Interaction-Papers/blob/master/hu(2).pdf" style="text-decoration:none;">Contextual Action Recognition with R*CNN</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Human-Object-Interaction-Papers/blob/master/hu(3).pdf" style="text-decoration:none;">A Programming Language
-Based on Classical Logic</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Human-Object-Interaction-Papers/blob/master/hu(4).pdf" style="text-decoration:none;">The Scalable Commutativity Rule:
-Designing Scalable Software for Multicore Processors</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Human-Object-Interaction-Papers/blob/master/hu(5).pdf" style="text-decoration:none;">Mobile Computing with the Rover Toolkit</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Human-Object-Interaction-Papers/blob/master/hu(6).pdf" style="text-decoration:none;">Improving Network Connection Locality on Multicore Systems</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Human-Object-Interaction-Papers/blob/master/hu(7).pdf" style="text-decoration:none;">Asynchronous intrusion recovery
-for interconnected web services</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Human-Object-Interaction-Papers/blob/master/hu(3).pdf" style="text-decoration:none;">Visual Semantic Role Labeling</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Human-Object-Interaction-Papers/blob/master/hu(4).pdf" style="text-decoration:none;">Learning Models for Actions and Person-Object Interactions with Transfer to Question Answering</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Human-Object-Interaction-Papers/blob/master/hu(5).pdf" style="text-decoration:none;">Detecting and Recognizing Human-Object Interactions</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Human-Object-Interaction-Papers/blob/master/hu(6).pdf" style="text-decoration:none;">Attentional Pooling for Action Recognition</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Human-Object-Interaction-Papers/blob/master/hu(7).pdf" style="text-decoration:none;">Learning Human-Object Interactions by Graph Parsing Neural Networks</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Human-Object-Interaction-Papers/blob/master/hu(8).pdf" style="text-decoration:none;"> Performance Optimization of the VDFS Verified
-File System </a></li>
-   <li><a target="_blank" href="https://github.com/manjunath5496/Human-Object-Interaction-Papers/blob/master/hu(9).pdf" style="text-decoration:none;">Algorand: Scaling Byzantine Agreements
-for Cryptocurrencies</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Human-Object-Interaction-Papers/blob/master/hu(8).pdf" style="text-decoration:none;"> iCAN: Instance-Centric Attention Network for Human-Object Interaction Detection </a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Human-Object-Interaction-Papers/blob/master/hu(9).pdf" style="text-decoration:none;">Transferable Interactiveness Knowledge for Human-Object Interaction Detection</a></li>
   
    
- <li><a target="_blank" href="https://github.com/manjunath5496/Human-Object-Interaction-Papers/blob/master/hu(10).pdf" style="text-decoration:none;">Alpaca: Extensible Authorization for Distributed Services </a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Human-Object-Interaction-Papers/blob/master/hu(11).pdf" style="text-decoration:none;">A Concurrency-Optimal Binary Search Tree</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Human-Object-Interaction-Papers/blob/master/hu(12).pdf" style="text-decoration:none;">Alpenhorn: Bootstrapping Secure Communication without Leaking Metadata</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Human-Object-Interaction-Papers/blob/master/hu(13).pdf" style="text-decoration:none;">Amber: Decoupling User Data from Web Applications</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Human-Object-Interaction-Papers/blob/master/hu(10).pdf" style="text-decoration:none;">Turbo Learning Framework for Human-Object Interactions Recognition and Human Pose Estimation </a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Human-Object-Interaction-Papers/blob/master/hu(11).pdf" style="text-decoration:none;">Generating Videos of Zero-Shot Compositions of Actions and Objects</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Human-Object-Interaction-Papers/blob/master/hu(12).pdf" style="text-decoration:none;">PPDM: Parallel Point Detection and Matching for Real-time Human-Object Interaction Detection</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Human-Object-Interaction-Papers/blob/master/hu(13).pdf" style="text-decoration:none;">Visual-Semantic-Pose Graph Mixture Networks for Human-Object Interaction Detection</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Human-Object-Interaction-Papers/blob/master/hu(14).pdf" style="text-decoration:none;">Quboid: A Workstation for Safer Web Interaction</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Human-Object-Interaction-Papers/blob/master/hu(14).pdf" style="text-decoration:none;">Classifying All Interacting Pairs in a Single Shot</a></li>
                               
-<li><a target="_blank" href="https://github.com/manjunath5496/Human-Object-Interaction-Papers/blob/master/hu(15).pdf" style="text-decoration:none;">Argosy: Verifying Layered Storage Systems with
-Recovery Refinement</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Human-Object-Interaction-Papers/blob/master/hu(15).pdf" style="text-decoration:none;">Cascaded Human-Object Interaction Recognition</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Human-Object-Interaction-Papers/blob/master/hu(16).pdf" style="text-decoration:none;">LRC: Dependency-Aware Cache Management
-for Data Analytics Clusters</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Human-Object-Interaction-Papers/blob/master/hu(16).pdf" style="text-decoration:none;">VSGNet: Spatial Attention Network for Detecting Human Object Interactions Using Graph Convolutions</a></li>
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Human-Object-Interaction-Papers/blob/master/hu(17).pdf" style="text-decoration:none;">Make Least Privilege a Right (Not a Privilege)</a></li>   
+  <li><a target="_blank" href="https://github.com/manjunath5496/Human-Object-Interaction-Papers/blob/master/hu(17).pdf" style="text-decoration:none;">Learning Human-Object Interaction Detection using Interaction Points</a></li>   
   
-<li><a target="_blank" href="https://github.com/manjunath5496/Human-Object-Interaction-Papers/blob/master/hu(18).pdf" style="text-decoration:none;">Labels and Event Processes
-in the Asbestos Operating System</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Human-Object-Interaction-Papers/blob/master/hu(18).pdf" style="text-decoration:none;">PaStaNet: Toward Human Activity Knowledge Engine</a></li> 
 
   
-<li><a target="_blank" href="https://github.com/manjunath5496/Human-Object-Interaction-Papers/blob/master/hu(19).pdf" style="text-decoration:none;">Privacy-Preserving Browser-Side Scripting With BFlow</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Human-Object-Interaction-Papers/blob/master/hu(19).pdf" style="text-decoration:none;">Detailed 2D-3D Joint Representation for Human-Object Interaction</a></li> 
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Human-Object-Interaction-Papers/blob/master/hu(20).pdf" style="text-decoration:none;">The benefits and costs of writing a
-POSIX kernel in a high-level language</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Human-Object-Interaction-Papers/blob/master/hu(20).pdf" style="text-decoration:none;">Novel Human-Object Interaction Detection via Adversarial Domain Generalization</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Human-Object-Interaction-Papers/blob/master/hu(21).pdf" style="text-decoration:none;">The Benefits and Costs of Writing a POSIX Kernel in a High-Level Language</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Human-Object-Interaction-Papers/blob/master/hu(22).pdf" style="text-decoration:none;">LLVM: A Compilation Framework for
-Lifelong Program Analysis and Transformation</a></li> 
- <li><a target="_blank" href="https://github.com/manjunath5496/Human-Object-Interaction-Papers/blob/master/hu(23).pdf" style="text-decoration:none;">The Benefits and Costs of Writing a POSIX
-Kernel in a High-Level Language [Cody Cutler]</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Human-Object-Interaction-Papers/blob/master/hu(21).pdf" style="text-decoration:none;">Diagnosing Rarity in Human-object Interaction Detection</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Human-Object-Interaction-Papers/blob/master/hu(22).pdf" style="text-decoration:none;">A Graph-based Interactive Reasoning for Human-Object Interaction Detection</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Human-Object-Interaction-Papers/blob/master/hu(23).pdf" style="text-decoration:none;">Detecting Human-Object Interactions with Action Co-occurrence Priors</a></li> 
  
 
-   <li><a target="_blank" href="https://github.com/manjunath5496/Human-Object-Interaction-Papers/blob/master/hu(24).pdf" style="text-decoration:none;">Separating Web Applications from User Data Storage with BSTORE</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Human-Object-Interaction-Papers/blob/master/hu(24).pdf" style="text-decoration:none;">Visual Compositional Learning for Human-Object Interaction Detection</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Human-Object-Interaction-Papers/blob/master/hu(25).pdf" style="text-decoration:none;">A Methodical Study of Web Crawler</a></li>                              
- <li><a target="_blank" href="https://github.com/manjunath5496/Human-Object-Interaction-Papers/blob/master/hu(26).pdf" style="text-decoration:none;">Certifying a File System Using
-Crash Hoare Logic: Correctness in the Presence of Crashes</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Human-Object-Interaction-Papers/blob/master/hu(27).pdf" style="text-decoration:none;">A Differential Approach to
-Undefined Behavior Detection</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Human-Object-Interaction-Papers/blob/master/hu(25).pdf" style="text-decoration:none;">Pose-based Modular Network for Human-Object Interaction Detection</a></li>                              
+ <li><a target="_blank" href="https://github.com/manjunath5496/Human-Object-Interaction-Papers/blob/master/hu(26).pdf" style="text-decoration:none;">Polysemy Deciphering Network for Robust Human-Object Interaction Detection</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Human-Object-Interaction-Papers/blob/master/hu(27).pdf" style="text-decoration:none;">ConsNet: Learning Consistency Graph for Zero-Shot Human-Object Interaction Detection</a></li>
    
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Human-Object-Interaction-Papers/blob/master/hu(28).pdf" style="text-decoration:none;">Reducing Pause Times with Clustered Collection</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Human-Object-Interaction-Papers/blob/master/hu(28).pdf" style="text-decoration:none;">Zero-Shot Human-Object Interaction Recognition via Affordance Graphs</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Human-Object-Interaction-Papers/blob/master/hu(29).pdf" style="text-decoration:none;">Reducing Pause Times With Clustered Collection [Cody Cutler] </a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/Human-Object-Interaction-Papers/blob/master/hu(29).pdf" style="text-decoration:none;">DIRV: Dense Interaction Region Voting for End-to-End Human-Object Interaction Detection </a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Human-Object-Interaction-Papers/blob/master/hu(30).pdf" style="text-decoration:none;">Certifying Program Execution with Secure Processors</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Human-Object-Interaction-Papers/blob/master/hu(30).pdf" style="text-decoration:none;">DecAug: Augmenting HOI Detection via Decomposition</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Human-Object-Interaction-Papers/blob/master/hu(31).pdf" style="text-decoration:none;">Providing a Shared File System in the Hare
-POSIX Multikernel</a></li> 
-    <li><a target="_blank" href="https://github.com/manjunath5496/Human-Object-Interaction-Papers/blob/master/hu(32).pdf" style="text-decoration:none;">Linux kernel vulnerabilities:
-State-of-the-art defenses and open problems</a></li> 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Human-Object-Interaction-Papers/blob/master/hu(31).pdf" style="text-decoration:none;">HOI Analysis: Integrating and Decomposing Human-Object Interaction</a></li> 
+    <li><a target="_blank" href="https://github.com/manjunath5496/Human-Object-Interaction-Papers/blob/master/hu(32).pdf" style="text-decoration:none;">Detecting Human-Object Interaction with Mixed Supervision</a></li> 
 
-   <li><a target="_blank" href="https://github.com/manjunath5496/Human-Object-Interaction-Papers/blob/master/hu(33).pdf" style="text-decoration:none;">Robust and Efficient Data Management for a Distributed Hash Table</a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/Human-Object-Interaction-Papers/blob/master/hu(33).pdf" style="text-decoration:none;">Spatio-attentive Graphs for Human–Object Interaction Detection</a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Human-Object-Interaction-Papers/blob/master/hu(34).pdf" style="text-decoration:none;">Choosing Internet Paths with High Bulk Transfer Capacity</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Human-Object-Interaction-Papers/blob/master/hu(34).pdf" style="text-decoration:none;">Discovering Human Interactions with Novel Objects via Zero-Shot Learning</a></li> 
  
-  <li><a target="_blank" href="https://github.com/manjunath5496/Human-Object-Interaction-Papers/blob/master/hu(35).pdf" style="text-decoration:none;">Melody: A Distributed Music-Sharing System</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Human-Object-Interaction-Papers/blob/master/hu(35).pdf" style="text-decoration:none;">DRG: Dual Relation Graph for Human-Object Interaction Detection</a></li> 
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Human-Object-Interaction-Papers/blob/master/hu(36).pdf" style="text-decoration:none;">A Keyword-Set Search System for Peer-to-Peer
-Networks</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Human-Object-Interaction-Papers/blob/master/hu(36).pdf" style="text-decoration:none;">Amplifying Key Cues for
+Human-Object-Interaction Detection</a></li> 
  
-<li><a target="_blank" href="https://github.com/manjunath5496/Human-Object-Interaction-Papers/blob/master/hu(37).pdf" style="text-decoration:none;">Herodotus: A Peer-to-PeerWeb Archival System</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Human-Object-Interaction-Papers/blob/master/hu(38).pdf" style="text-decoration:none;">A case study of server selection</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Human-Object-Interaction-Papers/blob/master/hu(39).pdf" style="text-decoration:none;">The Scalable Commutativity Rule:
-Designing Scalable Software for Multicore Processors</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Human-Object-Interaction-Papers/blob/master/hu(40).pdf" style="text-decoration:none;">Programming language optimizations for modular router configurations</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Human-Object-Interaction-Papers/blob/master/hu(41).pdf" style="text-decoration:none;">Fast Bug Finding in Lock-Free Data Structures with
-CB-DPOR</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Human-Object-Interaction-Papers/blob/master/hu(42).pdf" style="text-decoration:none;">Finding Linearization Violations in Lock-Free
-Concurrent Data Structures</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Human-Object-Interaction-Papers/blob/master/hu(37).pdf" style="text-decoration:none;">UnionDet: Union-Level Detector Towards Real-Time Human-Object Interaction Detection</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Human-Object-Interaction-Papers/blob/master/hu(38).pdf" style="text-decoration:none;">Contextual Heterogeneous Graph Network for Human-Object Interaction Detection</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Human-Object-Interaction-Papers/blob/master/hu(39).pdf" style="text-decoration:none;">LIGHTEN: Learning Interactions with Graph and Hierarchical TEmporal Networks for HOI in videos</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Human-Object-Interaction-Papers/blob/master/hu(40).pdf" style="text-decoration:none;">HICO: A Benchmark for Recognizing Human-Object Interactions in Images</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Human-Object-Interaction-Papers/blob/master/hu(41).pdf" style="text-decoration:none;">Learning to Detect Human-Object Interactions </a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Human-Object-Interaction-Papers/blob/master/hu(42).pdf" style="text-decoration:none;">Pairwise Body-Part Attention for Recognizing Human-Object Interactions</a></li>
  
-  <li><a target="_blank" href="https://github.com/manjunath5496/Human-Object-Interaction-Papers/blob/master/hu(43).pdf" style="text-decoration:none;">The Scalable Commutativity Rule:
-Designing Scalable Software for Multicore Processors</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Human-Object-Interaction-Papers/blob/master/hu(44).pdf" style="text-decoration:none;">SCTP in Go</a></li>
-   <li><a target="_blank" href="https://github.com/manjunath5496/Human-Object-Interaction-Papers/blob/master/hu(45).pdf" style="text-decoration:none;">Cloud Based Web Scraping for Big Data Applications</a></li>  
+  <li><a target="_blank" href="https://github.com/manjunath5496/Human-Object-Interaction-Papers/blob/master/hu(43).pdf" style="text-decoration:none;">Compositional Learning
+for Human Object Interaction</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Human-Object-Interaction-Papers/blob/master/hu(44).pdf" style="text-decoration:none;">Detecting human–object interaction with multi-level pairwise feature network</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Human-Object-Interaction-Papers/blob/master/hu(45).pdf" style="text-decoration:none;">Detecting Unseen Visual Relations Using Analogies</a></li>  
    
-<li><a target="_blank" href="https://github.com/manjunath5496/Human-Object-Interaction-Papers/blob/master/hu(46).pdf" style="text-decoration:none;">Conclave: secure multi-party computation on big data</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Human-Object-Interaction-Papers/blob/master/hu(46).pdf" style="text-decoration:none;">No-Frills Human-Object Interaction Detection: Factorization, Layout Encodings, and Training Techniques</a></li> 
                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Human-Object-Interaction-Papers/blob/master/hu(47).pdf" style="text-decoration:none;">Corey: An Operating System for Many Cores</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Human-Object-Interaction-Papers/blob/master/hu(48).pdf" style="text-decoration:none;">CPHash: A Cache-Partitioned Hash Table</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Human-Object-Interaction-Papers/blob/master/hu(47).pdf" style="text-decoration:none;">Scaling Human-Object Interaction Recognition through Zero-Shot Learning</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Human-Object-Interaction-Papers/blob/master/hu(48).pdf" style="text-decoration:none;">Deep Contextual Attention for Human-Object Interaction Detection</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Human-Object-Interaction-Papers/blob/master/hu(49).pdf" style="text-decoration:none;">Scaling Address-Space Operations on Linux with
-TSX</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Human-Object-Interaction-Papers/blob/master/hu(49).pdf" style="text-decoration:none;">Learning to Detect Human-Object Interactions with Knowledge</a></li>
                               
-<li><a target="_blank" href="https://github.com/manjunath5496/Human-Object-Interaction-Papers/blob/master/hu(50).pdf" style="text-decoration:none;">Why does cryptographic software fail?
-A case study and open problems</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Human-Object-Interaction-Papers/blob/master/hu(51).pdf" style="text-decoration:none;">In Defense of Wireless Carrier Sense</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Human-Object-Interaction-Papers/blob/master/hu(52).pdf" style="text-decoration:none;">Verifying concurrent software using movers in CSPEC</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Human-Object-Interaction-Papers/blob/master/hu(50).pdf" style="text-decoration:none;">Relation Parsing Neural Network for Human-Object Interaction Detection</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Human-Object-Interaction-Papers/blob/master/hu(51).pdf" style="text-decoration:none;">Detecting Human-Object Interactions via Functional Generalization</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Human-Object-Interaction-Papers/blob/master/hu(52).pdf" style="text-decoration:none;">Grounded Human-Object Interaction Hotspots from Video</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Human-Object-Interaction-Papers/blob/master/hu(53).pdf" style="text-decoration:none;">The Little Manual of
-API Design</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Human-Object-Interaction-Papers/blob/master/hu(53).pdf" style="text-decoration:none;">Pose-aware Multi-level Feature Network for Human Object Interaction Detection</a></li>
  
-<li><a target="_blank" href="https://github.com/manjunath5496/Human-Object-Interaction-Papers/blob/master/hu(54).pdf" style="text-decoration:none;">Design and Applications of a Secure and Decentralized Distributed Hash Table </a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Human-Object-Interaction-Papers/blob/master/hu(54).pdf" style="text-decoration:none;">PPDM: Parallel Point Detection and Matching for Real-time Human-Object Interaction Detection </a></li>
 
 </ul>
