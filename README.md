@@ -96,4 +96,20 @@ for Human Object Interaction</a></li>
  
 <li><a target="_blank" href="https://github.com/manjunath5496/Human-Object-Interaction-Papers/blob/master/hu(54).pdf" style="text-decoration:none;">PPDM: Parallel Point Detection and Matching for Real-time Human-Object Interaction Detection </a></li>
 
+<li><a target="_blank" href="https://github.com/manjunath5496/Human-Object-Interaction-Papers/blob/master/hu(55).pdf" style="text-decoration:none;">Human-Object Interaction Detection: A Quick Survey and Examination of Methods</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Human-Object-Interaction-Papers/blob/master/hu(56).pdf" style="text-decoration:none;">Dangerous human event understanding using human-object interaction model</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Human-Object-Interaction-Papers/blob/master/hu(57).pdf" style="text-decoration:none;">Knowledge-Based Role Recognition by Using Human-Object Interaction and Spatio-Temporal Analysis</a></li>
+ 
+<li><a target="_blank" href="https://github.com/manjunath5496/Human-Object-Interaction-Papers/blob/master/hu(58).pdf" style="text-decoration:none;">TUHOI: Trento Universal Human Object Interaction Dataset</a></li>
+
+
+
+
+
+
+
+
+
+
 </ul>
